@@ -117,7 +117,7 @@
     "linkedin/frank-dauth-57732a227",
   )
 
-  Moritz Everding, CEO sochili and Business Delevoper\ --- WAYS --- #link(
+  Moritz Everding, CEO SOCHILI and Business Delevoper\ --- WAYS --- #link(
     "https://www.linkedin.com/in/moritzeverding",
     "linkedin/moritzeverding",
   )
