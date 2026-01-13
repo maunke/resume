@@ -1,6 +1,6 @@
 // Resume:
 // Short, compact, non distracting, honest, believing that entrepreneuers value this
-#set page(paper: "a4", margin: (top: 1.05cm, bottom: 0cm))
+#set page(paper: "a4", margin: (top: 2.5em, bottom: 0cm))
 #set text(
   font: "TX-02",
   size: 9pt,
@@ -8,7 +8,7 @@
   hyphenate: false,
 )
 #let indent = 3.6em; #let spacing = 0.8em; #let leading = spacing;
-#let blocks_distance = 2mm;
+#let blocks_distance = 1em;
 
 #set underline(offset: 2pt)
 #set block(inset: (left: indent))
@@ -20,7 +20,6 @@
   block()[
     #body
   ]
-  v(blocks_distance)
 }
 #set align(center)
 #underline("RESUME")\
