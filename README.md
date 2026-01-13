@@ -4,7 +4,7 @@
 - sections:
   - about
   - clients
-  - professional Experience
+  - professional experience
   - patents
   - educaction
   - references
