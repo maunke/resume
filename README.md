@@ -9,3 +9,4 @@
   - educaction
   - references
 - written in typst
+- download on https://unkel.io/freelance
