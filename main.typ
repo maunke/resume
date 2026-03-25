@@ -34,7 +34,7 @@
 #set align(left)
 
 #section("Freelance Software Engineer, Computational and Data Scientist", [
-  Markus Unkel, 32, #link(
+  Markus Unkel, 33, #link(
     "https://markusunkel.tech",
   ), 20354 Hamburg, Valentinskamp 91,\
   Tel. #link(
