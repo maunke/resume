@@ -33,14 +33,14 @@
 )
 #set align(left)
 
-#section("Freelance Software Engineer, Computational and Data Scientist", [
+#section("Freelance Software Engineer and Data Scientist", [
   Markus Unkel, 33, #link(
-    "https://markusunkel.tech",
+    "https://markusunkel.com",
   ), 20354 Hamburg, Valentinskamp 91,\
   Tel. #link(
     "tel:+4917686606827",
   ), Email #link(
-    "mailto:contact@markusunkel.tech",
+    "mailto:markus@markusunkel.com",
   )\
   Deep expertise in building reliable, scalable systems primarily using Rust and
   Python, Background in physics and data science to tackle complex domains,
@@ -58,8 +58,8 @@
 ])
 
 #section("Professional Experience", [
-  1 --- markusunkel.tech (2022 - Present)\
-  Freelance Software Engineer, Computational and Data Scientist
+  1 --- markusunkel.com (2022 - Present)\
+  FOSS and Freelance Software Engineer and Data Scientist
 
   2 --- ColorFit (2015 - Present, #link("https://colorfit.ai", "colorfit.ai"))\
   Founder, Inventor, CEO --- Patented technology, Realizing prints without trial
